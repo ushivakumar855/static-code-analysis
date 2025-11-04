@@ -1,0 +1,11 @@
+inventory.py:10:1: E302 expected 2 blank lines, found 1
+inventory.py:23:1: E302 expected 2 blank lines, found 1
+inventory.py:36:1: E302 expected 2 blank lines, found 1
+inventory.py:40:1: E302 expected 2 blank lines, found 1
+inventory.py:45:80: E501 line too long (82 > 79 characters)
+inventory.py:51:80: E501 line too long (80 > 79 characters)
+inventory.py:57:1: E302 expected 2 blank lines, found 1
+inventory.py:66:1: E302 expected 2 blank lines, found 1
+inventory.py:72:1: E302 expected 2 blank lines, found 1
+inventory.py:80:1: E302 expected 2 blank lines, found 1
+inventory.py:92:1: E305 expected 2 blank lines after class or function definition, found 1
